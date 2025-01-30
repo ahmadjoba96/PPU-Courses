@@ -12,7 +12,7 @@ This repository serves as a collection of the coursework and assignments I compl
 
 ## Technologies
 - **Languages:** C++, Java.
-- **Tools:** Git, Sublime Text ,sublime merge , Vs code.
+- **Tools:** Git, Sublime Text , sublime merge , Vs code.
 
 ## Topics Covered
 - **Data Structures:** Arrays, linked lists, stacks, queues, binary trees, heaps, Graph.
