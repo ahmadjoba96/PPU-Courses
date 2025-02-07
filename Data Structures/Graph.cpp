@@ -145,8 +145,7 @@ void Graph::printAdjList()
 	}
 }
 
-int main()
-{
+int main() {
 	Graph g(5);
 	g.addEdge(0, 1, 2);
 	g.addEdge(0, 4, 3);
